@@ -1,0 +1,15 @@
+Django
+djangorestframework
+chromadb
+pdfplumber
+numpy
+tqdm
+python-dotenv
+langchain==0.0.283
+faiss-cpu
+tiktoken
+transformers
+sentence-transformers
+torch
+accelerate
+pypdf
